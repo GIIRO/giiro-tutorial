@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ajuda - GIIRO</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Gerenciador de Informações e Infraestrutura de Redes Ópticas">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+</head>
+<body>
+  <div id="app">Carregando...</div>
+  <script>
+    window.$docsify = {
+      name: 'GIIRO',
+
+      // Carrega a sidebar configurada em _sidebar.md
+      loadSidebar: true,
+      
+      // Carrega a barra de busca
+      search: {
+        noData: {
+          '/': 'Nada encontrado!'
+        },
+        // paths: 'auto',
+        placeholder: {
+          '/': 'Buscar'
+        }
+      }
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+</body>
+</html>
