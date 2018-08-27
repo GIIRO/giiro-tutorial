@@ -4,3 +4,6 @@
 Ao final dele, você saberá como usar as funcionalidades básicas necessárias para construção do seu mapa, começando do zero ou a partir de um arquivo KMZ da sua rede.
 
 Link para demo: https://gt-giiro.pop-ba.rnp.br/
+
+Acesse o form abaixo e deixe suas sugestões. Para nós, ela é muito valiosa.
+**link para o form**
