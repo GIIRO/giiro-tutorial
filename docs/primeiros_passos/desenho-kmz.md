@@ -20,4 +20,4 @@ Etapa 2: Importação de **Caixa de Emendas**.
 
 Os elementos que foram inseridos no mapa não estão correlacionados entre si. É importante que eles estejam correlacionados para o funcionamento da aplicação.
 
-* [Correlacionar elementos](primeiros_passos/correlacionar-elementos.md)
+* [Correlacionar elementos](primeiros_passos/correlacionando-elementos.md)
